@@ -1,6 +1,6 @@
 # WMS PromptCat Triage
 
-In order to make this program work, please provide the API key, with no other characters, in the APIkey.txt file in "Java"
+In order to make this program work, please provide only the API key in the "APIkey.txt" file located in the folder "Java"
 
 Created for Union College by Hamza Ghumman in collaboration and under the 
 guidance of Catalog & Metadata Librarian John Myers.
